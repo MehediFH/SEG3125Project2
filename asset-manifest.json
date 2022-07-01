@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SEG3125Project2/static/css/main.b22dcffc.css",
+    "main.js": "/SEG3125Project2/static/js/main.b04f6421.js",
+    "static/media/Car.mp4": "/SEG3125Project2/static/media/Car.09bd38220bb6f590ae15.mp4",
+    "index.html": "/SEG3125Project2/index.html",
+    "main.b22dcffc.css.map": "/SEG3125Project2/static/css/main.b22dcffc.css.map",
+    "main.b04f6421.js.map": "/SEG3125Project2/static/js/main.b04f6421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b22dcffc.css",
+    "static/js/main.b04f6421.js"
+  ]
+}
